@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikaLoving
 - 👀 I’m interested in research
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on any project
+- 🌱 I’m currently learning about data analysis and human genome
+- 💞️ I’m looking to collaborate on scientific projects
 - 📫 How to reach me: carolina.herrera.com@gmail.com
 
 <!---
